@@ -21,6 +21,7 @@
 	}
 	.PhNum{
 		color: black;
+		font-size: 25pt;		
   		transition: color 0.3s;
 	}
 	.PhNum:hover{
