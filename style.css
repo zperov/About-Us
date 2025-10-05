@@ -23,8 +23,10 @@
 		color: black;
 		font-size: 25pt;		
   		transition: color 0.3s;
+		background-color: white;
 	}
 	.PhNum:hover{
   		color: yellow;
+		background-color: blue;
 }
 </style>
