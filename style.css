@@ -22,6 +22,8 @@
 	.PhNum{
 		color: black;
   		transition: color 0.3s;
-		color: yellow;
 	}
+	.PhNum:hover{
+  		color: yellow;
+}
 </style>
